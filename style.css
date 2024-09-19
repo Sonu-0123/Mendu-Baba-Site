@@ -306,6 +306,7 @@ footer .thirbox .fsocial .copyright p{
     bottom: 50px;
     cursor: pointer;
     border-radius: 100%;
+    z-index: 1;
 }
 
 .AI .ailogo{
